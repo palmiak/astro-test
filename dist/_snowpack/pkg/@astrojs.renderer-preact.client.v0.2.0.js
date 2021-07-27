@@ -1,0 +1,1 @@
+import{v as e,q as t}from"../../preact.v10.5.14-30f340e3.js";const o=({value:t})=>t?e("astro-fragment",{dangerouslySetInnerHTML:{__html:t}}):null;o.shouldComponentUpdate=()=>!1;export default a=>(l,n,r)=>t(e(l,n,e(o,{value:r})),a);
