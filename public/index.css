@@ -1,5 +1,5 @@
-@import '/theme';
-@import '/code';
+@import './theme';
+@import './code';
 
 * {
   box-sizing: border-box;
