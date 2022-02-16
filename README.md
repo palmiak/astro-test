@@ -1,4 +1,4 @@
-# Astro Starter Kit: Docs Site 123
+# Astro Starter Kit: Docs Site 1234
 
 ```
 npm init astro -- --template docs
